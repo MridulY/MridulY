@@ -26,7 +26,7 @@ These technologies form the backbone of my passion for continuous learning and g
 ## Get in Touch
 I'm eager to engage with like-minded developers, exchange insights, and team up on innovative ventures. Don't hesitate to connect with me using the provided channels. Let's collaborate and bring remarkable projects to life together!
 
-- **Email:** mridulyadav3173@gmail.com@gmail.com
+- **Email:** mridulyadav3173@gmail.com
 - **LinkedIn:** [Mridul Yadav](https://www.linkedin.com/in/mridul-yadav-9935b71b7/)
 
 
