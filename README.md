@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there, I'm Mridul Yadav! 👋
 
-<!--
-**MridulY/MridulY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Mridul Yadav, an enthusiastic explorer deeply entrenched in the realms of MERN Stack, React, JavaScript, Node.js, Rust, and Motoko.
+These technologies form the backbone of my passion for continuous learning and growth in the dynamic world of software development.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, Rust, Motoko, C++, Java
+- **Front-end:** React, HTML, CSS
+- **Back-end:** Node.js, Express, NextJs
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, Postman, Docker, AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Short Answer
+
+```json
+{
+  "identification": "Mridul Yadav",
+  "country": "India",
+  "category": "Curious Being",
+  "quests": {
+      "search": ["Purpose", "Friends", "Life"]
+  }
+}
+```
+
+## Get in Touch
+I'm eager to engage with like-minded developers, exchange insights, and team up on innovative ventures. Don't hesitate to connect with me using the provided channels. Let's collaborate and bring remarkable projects to life together!
+
+- **Email:** mridulyadav3173@gmail.com@gmail.com
+- **LinkedIn:** [Mridul Yadav](https://www.linkedin.com/in/mridul-yadav-9935b71b7/)
+
+
